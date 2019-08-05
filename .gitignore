@@ -3,3 +3,7 @@
 __pycache__/*
 
 python_venv/*
+
+.ipynb_checkpoints/*
+
+*/.ipynb_checkpoints/*
