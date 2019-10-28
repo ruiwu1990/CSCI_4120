@@ -6,3 +6,4 @@ seaborn
 sklearn
 pillow
 yellowbrick
+ipywidgets
