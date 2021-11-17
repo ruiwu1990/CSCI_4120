@@ -7,3 +7,5 @@ sklearn
 pillow
 yellowbrick
 ipywidgets
+keras
+tensorflow
